@@ -1,2 +1,29 @@
-# RolesItunesConnect
-Liste des rôles iTunesConnect et leurs droits
+# Roles Itunes Connect
+
+Liste des rôles iTunesConnect et de leurs droits
+
+|                                                                         | Juridique  | Administrateur  | Finances  |    Gestionnaire d'apps     |        Développeur         |         Marketing          |           Ventes           |
+|------------------------------------------------------------------------ |:---------: |:--------------: |:--------: |:-------------------------: |:-------------------------: |:-------------------------: |:-------------------------: |
+| Gérer la section Utilisateurs et rôles                                  |     ✓      |        ✗        |     ✗     |             ✓              |             ✗              |             ✗              |             ✗              |
+| Gérer l'accès aux apps                                                  |     ✓      |        ✓        |     ✗     |             ✓              |             ✗              |             ✗              |             ✗              |
+| Gérer les testeurs Sandbox                                              |     ✓      |        ✓        |     ✗     |             ✓              |             ✗              |             ✗              |             ✗              |
+| Gérer la section informations contractuelles, bancaires et fiscales     |     ✓      |        ✓        |     ✓     |             ✗              |             ✗              |             ✗              |             ✗              |
+| Signer des contrats                                                     |     ✓      |        ✗        |     ✗     |             ✗              |             ✗              |             ✗              |             ✗              |
+| Consulter la section Paiements et rapports financiers                   |     ✓      |        ✓        |     ✓     |             ✗              |             ✗              |             ✗              |             ✗              |
+| Rapports du catalague                                                   |     ✓      |        ✓        |     ✓     | Rôle Rapports obligatoire  | Rôle Rapports obligatoire  | Rôle Rapports obligatoire  | Rôle Rapports obligatoire  |
+| Créer des apps et soumettre des versions                                |     ✓      |        ✓        |     ✗     |             ✓              |             ✗              |             ✗              |             ✗              |
+| Télécharger des builds                                                  |     ✓      |        ✓        |     ✗     |             ✓              |             ✓              |             ✗              |             ✗              |
+| Modifier les informations de l'App Store                                |     ✓      |        ✓        |     ✗     |             ✓              |             ✗              |             ✓              |             ✗              |
+| Gérer les sections Codes promotionnels et Illustrations promotionelles  |     ✓      |        ✓        |     ✗     |             ✓              |             x              |             ✓              |             ✗              |
+| Gérer les builds TestFlight                                             |     ✓      |        ✓        |     ✗     |             ✓              | Rôle Rapports obligatoire  | Rôle Rapports obligatoire  |             ✗              |
+| Gérer les testeurs TestFlight                                           |     ✓      |        ✓        |     ✗     |             ✓              |             ✓              |             ✓              |             ✗              |
+| Modifier les tarifs et la disponibilité des apps                        |     ✓      |        ✓        |     ✗     |             ✓              |             ✗              | Rôle Rapports obligatoire  |             ✗              |
+| Créer des achats intégrés                                               |     ✓      |        ✓        |     ✗     |             ✓              |             ✓              |             ✓              |             ✗              |
+| Soumettre des achats intégrés                                           |     ✓      |        ✓        |     ✗     |             ✓              |             ✗              |             ✗              |             ✗              |
+| Modifier des achats intégrés                                            |     ✓      |        ✓        |     ✗     |             ✓              | Rôle Rapports obligatoire  |             ✓              |             ✗              |
+| Gérer Game Center                                                       |     ✓      |        ✓        |     ✗     |             ✓              |             ✓              |             ✓              |             ✗              |
+| Gérer les scores et classements                                         |     ✓      |        ✓        |     ✗     |             ✓              |             ✗              |             ✗              |             ✗              |
+| Consulter la section Analyses des apps                                  |     ✓      |        ✓        |     ✓     |             ✗              |             ✗              |             ✗              |             ✓              |
+| Afficher la section Ventes et tendances (Ventes)                        |     ✓      |        ✓        |     ✓     |             ✗              |             ✗              |             ✗              |             ✓              |
+| Consulter la section Ventes et tendances (Rapports)                     |     ✓      |        ✓        |     ✓     |             ✗              |             ✗              |             ✗              | Rôle Rapports obligatoire  |
+| Répondre aux avis d'utilisateurs et modifier les réponses apportées.    |     ✓      |        ✓        |     ✗     | Rôle Rapports obligatoire  | Rôle Rapports obligatoire  | Rôle Rapports obligatoire  |             ✗              |
